@@ -1,0 +1,11 @@
+tut:
+https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu-14.04/
+
+addr.priv:
+https://help.github.com/articles/keeping-your-email-address-private/
+
+2fa.auth:
+https://help.github.com/articles/providing-your-2fa-authentication-code/
+
+push.def:
+http://stackoverflow.com/questions/13148066/warning-push-default-is-unset-its-implicit-value-is-changing-in-git-2-0
