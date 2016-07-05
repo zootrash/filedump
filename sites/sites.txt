@@ -1,3 +1,9 @@
+netwrk:
 http://www.techpiration.com/download-torrents-on-public-wifi-networks/
 
 http://www.techpiration.com/how-to-access-blocked-websites-using-vpn/
+
+
+v.colors:
+http://vimcolors.com/403/oceandeep/dark
+http://vimcolors.com/368/base16-duotone-darksea/dark
