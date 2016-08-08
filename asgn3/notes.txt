@@ -1,0 +1,13 @@
+## asgn3
+
+$curr
+
+$reqs
+[ ] no spaces in b/w tokens
+		-> tokenize(" >");
+[ ] exec cmds anywhere
+		-> execvp
+
+$notes
+
+$resrc

@@ -1,0 +1,5 @@
+./listf -l -mac tokenizer.o listf makefile
+
+./listf -l -m -a -c tokenizer.o listf makefile
+
+./listf -la listf.c || ./listf -l -a listf.c
